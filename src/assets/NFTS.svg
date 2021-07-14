@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101px" height="103px" viewBox="0 0 101 103" version="1.1">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.5181731%" y1="12.8216691%" x2="100%" y2="60.6354535%" id="linearGradient-1">
+            <stop stop-color="#112E61" stop-opacity="0" offset="0%"/>
+            <stop stop-color="#112E61" offset="100%"/>
+        </linearGradient>
+        <path d="M63.6296848,12.4922563 L90.4810657,28.0041078 C95.0738098,30.6573033 97.9027619,35.558646 97.9027619,40.862677 L97.9027619,71.9016419 C97.9027619,77.2056728 95.0738098,82.1070155 90.4810657,84.7602111 L63.6296848,100.272063 C59.0333998,102.927304 53.369362,102.927304 48.7730771,100.272063 L21.9216962,84.7602111 C17.3289521,82.1070155 14.5,77.2056728 14.5,71.9016419 L14.5,40.862677 C14.5,35.558646 17.3289521,30.6573033 21.9216962,28.0041078 L48.7730771,12.4922563 C53.369362,9.83701526 59.0333998,9.83701526 63.6296848,12.4922563 Z" id="path-2"/>
+        <filter x="-12.0%" y="-10.9%" width="124.0%" height="121.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="6" in="SourceAlpha" result="shadowBlurInner1"/>
+            <feOffset dx="-8" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"/>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.0274509804   0 0 0 0 0.133333333  0 0 0 0.24 0" type="matrix" in="shadowInnerInner1"/>
+        </filter>
+        <linearGradient x1="100%" y1="79.2196502%" x2="4.74372584%" y2="20.6260934%" id="linearGradient-4">
+            <stop stop-color="#F5A440" offset="0%"/>
+            <stop stop-color="#2B3362" stop-opacity="0" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="99.4504059%" y1="95.6159087%" x2="-9.64155221%" y2="14.6498723%" id="linearGradient-5">
+            <stop stop-color="#F4A440" offset="0%"/>
+            <stop stop-color="#FAD165" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="15.0662591%" y1="107.453026%" x2="139.095052%" y2="14.1462054%" id="linearGradient-6">
+            <stop stop-color="#DA8318" offset="0%"/>
+            <stop stop-color="#FAD165" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="-14.4705636%" y1="-2.89376796%" x2="74.7872489%" y2="96.2149784%" id="linearGradient-7">
+            <stop stop-color="#EA9E3E" offset="0%"/>
+            <stop stop-color="#CE9E1F" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Z-DAG" transform="translate(-1131.000000, -2579.000000)">
+            <g id="icon2" transform="translate(1128.000000, 2574.000000)">
+                <rect id="Rectangle-Copy-7" fill-rule="nonzero" x="0" y="0" width="113" height="113"/>
+                <g id="Polygon-Copy-5">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"/>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"/>
+                </g>
+                <path d="M63.4753498,8.28024251 L94.1723957,26.0137072 C98.7651398,28.6669028 101.594092,33.5682455 101.594092,38.8722765 L101.594092,74.3544679 C101.594092,79.6584989 98.7651398,84.5598416 94.1723957,87.2130371 L63.4753498,104.946502 C58.8790649,107.601743 53.215027,107.601743 48.6187421,104.946502 L17.9216962,87.2130371 C13.3289521,84.5598416 10.5,79.6584989 10.5,74.3544679 L10.5,38.8722765 C10.5,33.5682455 13.3289521,28.6669028 17.9216962,26.0137072 L48.6187421,8.28024251 C53.215027,5.62500146 58.8790649,5.62500146 63.4753498,8.28024251 Z" id="Polygon-Copy-4" stroke="url(#linearGradient-4)" stroke-width="1.485"/>
+                <path d="M64.4753498,8.28024251 L95.1723957,26.0137072 C99.7651398,28.6669028 102.594092,33.5682455 102.594092,38.8722765 L102.594092,74.3544679 C102.594092,79.6584989 99.7651398,84.5598416 95.1723957,87.2130371 L64.4753498,104.946502 C59.8790649,107.601743 54.215027,107.601743 49.6187421,104.946502 L18.9216962,87.2130371 C14.3289521,84.5598416 11.5,79.6584989 11.5,74.3544679 L11.5,38.8722765 C11.5,33.5682455 14.3289521,28.6669028 18.9216962,26.0137072 L49.6187421,8.28024251 C54.215027,5.62500146 59.8790649,5.62500146 64.4753498,8.28024251 Z" id="Polygon-Copy-3" stroke="url(#linearGradient-4)" stroke-width="1.485" opacity="0.4"/>
+                <path d="M87.4626057,10.9897745 L88.6826013,11.6945572 C88.8356928,11.7829971 88.9299912,11.9463752 88.9299912,12.1231762 L88.9299912,13.5332505 C88.9299912,13.7100515 88.8356928,13.8734296 88.6826013,13.9618695 L87.4626057,14.6666522 C87.3093962,14.7551603 87.120595,14.7551603 86.9673855,14.6666522 L85.7473899,13.9618695 C85.5942984,13.8734296 85.5,13.7100515 85.5,13.5332505 L85.5,12.1231762 C85.5,11.9463752 85.5942984,11.7829971 85.7473899,11.6945572 L86.9673855,10.9897745 C87.120595,10.9012664 87.3093962,10.9012664 87.4626057,10.9897745 Z" id="Polygon-2-Copy-5" fill="url(#linearGradient-5)"/>
+                <ellipse id="Oval-Copy-4" fill="url(#linearGradient-5)" cx="14.4901532" cy="16.9907407" rx="1" ry="1"/>
+                <ellipse id="Oval-Copy-5" fill="url(#linearGradient-5)" cx="20.9901532" cy="100.990741" rx="1" ry="1"/>
+                <ellipse id="Oval-Copy-2" fill="url(#linearGradient-5)" cx="93.9901532" cy="46.9907407" rx="1" ry="1"/>
+                <ellipse id="Oval" fill="url(#linearGradient-5)" cx="4.49015317" cy="98.9907407" rx="1" ry="1"/>
+                <ellipse id="Oval-Copy-3" stroke="url(#linearGradient-5)" stroke-width="0.99" cx="25.9852298" cy="92.9861111" rx="1.48522976" ry="1.48611111"/>
+                <path d="M63.4753498,8.28024251 L94.1723957,26.0137072 C98.7651398,28.6669028 101.594092,33.5682455 101.594092,38.8722765 L101.594092,74.3544679 C101.594092,79.6584989 98.7651398,84.5598416 94.1723957,87.2130371 L63.4753498,104.946502 C58.8790649,107.601743 53.215027,107.601743 48.6187421,104.946502 L17.9216962,87.2130371 C13.3289521,84.5598416 10.5,79.6584989 10.5,74.3544679 L10.5,38.8722765 C10.5,33.5682455 13.3289521,28.6669028 17.9216962,26.0137072 L48.6187421,8.28024251 C53.215027,5.62500146 58.8790649,5.62500146 63.4753498,8.28024251 Z" id="Polygon-Copy-4" stroke="url(#linearGradient-4)" stroke-width="1.485"/>
+                <path d="M64.4753498,8.28024251 L95.1723957,26.0137072 C99.7651398,28.6669028 102.594092,33.5682455 102.594092,38.8722765 L102.594092,74.3544679 C102.594092,79.6584989 99.7651398,84.5598416 95.1723957,87.2130371 L64.4753498,104.946502 C59.8790649,107.601743 54.215027,107.601743 49.6187421,104.946502 L18.9216962,87.2130371 C14.3289521,84.5598416 11.5,79.6584989 11.5,74.3544679 L11.5,38.8722765 C11.5,33.5682455 14.3289521,28.6669028 18.9216962,26.0137072 L49.6187421,8.28024251 C54.215027,5.62500146 59.8790649,5.62500146 64.4753498,8.28024251 Z" id="Polygon-Copy-3" stroke="url(#linearGradient-4)" stroke-width="1.485" opacity="0.4"/>
+                <path d="M87.4626057,10.9897745 L88.6826013,11.6945572 C88.8356928,11.7829971 88.9299912,11.9463752 88.9299912,12.1231762 L88.9299912,13.5332505 C88.9299912,13.7100515 88.8356928,13.8734296 88.6826013,13.9618695 L87.4626057,14.6666522 C87.3093962,14.7551603 87.120595,14.7551603 86.9673855,14.6666522 L85.7473899,13.9618695 C85.5942984,13.8734296 85.5,13.7100515 85.5,13.5332505 L85.5,12.1231762 C85.5,11.9463752 85.5942984,11.7829971 85.7473899,11.6945572 L86.9673855,10.9897745 C87.120595,10.9012664 87.3093962,10.9012664 87.4626057,10.9897745 Z" id="Polygon-2-Copy-5" fill="url(#linearGradient-5)"/>
+                <ellipse id="Oval-Copy-4" fill="url(#linearGradient-5)" cx="14.4901532" cy="16.9907407" rx="1" ry="1"/>
+                <ellipse id="Oval-Copy-5" fill="url(#linearGradient-5)" cx="20.9901532" cy="100.990741" rx="1" ry="1"/>
+                <ellipse id="Oval-Copy-2" fill="url(#linearGradient-5)" cx="93.9901532" cy="46.9907407" rx="1" ry="1"/>
+                <ellipse id="Oval" fill="url(#linearGradient-5)" cx="4.49015317" cy="98.9907407" rx="1" ry="1"/>
+                <ellipse id="Oval-Copy-3" stroke="url(#linearGradient-5)" stroke-width="0.99" cx="25.9852298" cy="92.9861111" rx="1.48522976" ry="1.48611111"/>
+                <g id="Group-115" transform="translate(50.500000, 30.000000)" fill-rule="nonzero" opacity="0.200000003">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="28" height="43.5"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="11" width="14.5" height="2" rx="1"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="14.5" width="20" height="2" rx="1"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="18.5" width="20" height="2" rx="1"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="22.5" width="20" height="2" rx="1"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="26" width="20" height="2" rx="1"/>
+                    <polygon id="Rectangle" fill="url(#linearGradient-6)" points="19 39 25.5 39 25.5 50 22.25 46.5067692 19 50"/>
+                </g>
+                <g id="Group-113" transform="translate(37.000000, 37.500000)" fill-rule="nonzero">
+                    <rect id="Rectangle" fill="url(#linearGradient-7)" x="0" y="0" width="28" height="43.5"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="11" width="14.5" height="2" rx="1"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="14.5" width="20" height="2" rx="1"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="18.5" width="20" height="2" rx="1"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="22.5" width="20" height="2" rx="1"/>
+                    <rect id="Rectangle" fill="#EDEDED" x="4" y="26" width="20" height="2" rx="1"/>
+                    <polygon id="Rectangle" fill="url(#linearGradient-6)" points="19 39 25.5 39 25.5 50 22.25 46.5067692 19 50"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

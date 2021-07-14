@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react'
+import { Navbar } from './component/Navbar/Navbar'
+import { Main } from './component/Main/Main'
+import { Header } from '../src/component/Header/Header'
+import { TSplateform } from '../src/component/TSplateform/TSplateform'
+import { Services } from '../src/component/Services/Services'
+import { Flow } from '../src/component/Flow/Flow'
+import { Layer } from '../src/component/LayerSection/Layer'
+import { Plateform } from '../src/component/Plateform/Plateform'
+import { Footer } from '../src/component/Footer/Footer'
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Main>
+      <Navbar />
+      <Header />
+      <TSplateform />
+      <Services />
+      <Flow />
+      <Layer />
+      <Plateform />
+      <Footer />
+    </Main>
   );
 }
 
